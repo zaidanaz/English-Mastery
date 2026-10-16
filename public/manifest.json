@@ -1,0 +1,46 @@
+{
+  "name": "English Mastery — Oxford 3000 & CEFR",
+  "short_name": "English Mastery",
+  "description": "Kuasai 3000 kosakata Oxford dengan sistem belajar CEFR A1–C2",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#5B4DFF",
+  "background_color": "#F7F4EC",
+  "lang": "id",
+  "categories": ["education", "utilities"],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Flashcard A1",
+      "short_name": "A1",
+      "url": "flashcards?level=A1",
+      "description": "Belajar kosakata level A1"
+    },
+    {
+      "name": "Ulasan",
+      "short_name": "Ulasan",
+      "url": "review",
+      "description": "Ulang kosakata yang sudah dipelajari"
+    }
+  ]
+}
